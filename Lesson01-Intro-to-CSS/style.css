@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(47, 5, 72);
+    color: White;
+
+
+}
+.stats {
+    background-color: rgb(248, 16, 248);
+    color: black; 
+}
+#player {
+    background-color: yellow;
+
+}
